@@ -26,45 +26,13 @@
 
 ## ⚙️ Tecnologias & Ferramentas
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" height="40" />
+  <h2 align="center">⚙️ Tecnologias & Ferramentas</h2>
+  
+  <a href="https://www.python.org/" target="_blank" title="Python">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" height="40" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" title="TypeScript">
-    <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" height="40" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" title="React">
-    <img src="https://skillicons.dev/icons?i=react" alt="React" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" title="Next.js">
-    <img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="40" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" title="Node.js">
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="40" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" title="Express">
-    <img src="https://skillicons.dev/icons?i=express" alt="Express" height="40" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" title="Git">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
-  </a>
-  <a href="https://github.com/" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" title="PostgreSQL">
-    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
-    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40" />
+  <a href="https://www.php.net/" target="_blank" title="PHP">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40" />
   </a>
   <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" />
@@ -74,6 +42,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="200" />
 </p>
+
 
 ---
 
