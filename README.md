@@ -24,10 +24,10 @@
 
 ---
 
-## ⚙️ Tecnologias & Ferramentas
 
   <h2 align="center">⚙️ Tecnologias & Ferramentas</h2>
   
+  <p align="center">
   <a href="https://www.python.org/" target="_blank" title="Python">
     <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40" />
   </a>
