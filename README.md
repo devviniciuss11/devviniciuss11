@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  💻 Desenvolvedor full-stack | 🚀 Apaixonado por tecnologia | 🎯 Em constante evolução
+  💻 Desenvolvedor júnior | 🚀 Apaixonado por tecnologia | 🎯 Em constante evolução
 </p>
 
 ---
