@@ -37,6 +37,13 @@
   <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
     <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" />
   </a>
+     <a href="https://www.java.com/pt-BR/" target="_blank" title="Java">
+    <img src="https://skillicons.dev/icons?i=java" alt="java" height="40" />
+  </a>
+    </a>
+     <a href="https://www.jetbrains.com/pt-br/idea/" target="_blank" title="intellij">
+    <img src="https://skillicons.dev/icons?i=idea" alt="java" height="40" />
+  </a>
 </p>
 
 <p align="center">
