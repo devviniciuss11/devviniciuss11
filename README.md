@@ -80,6 +80,14 @@
 ---
 
 <p align="center">
+
+<img src="https://raw.githubusercontent.com/devviniciuss11/devviniciuss11/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<p align="center">
   🌟 Obrigado por visitar meu perfil! Se curtir algum projeto, deixa uma estrela ⭐
 </p>
 
